@@ -3,5 +3,19 @@ test.sh
 .luarc.json
 nvim
 
-spell/
 lazy-lock.json
+
+# NeoVim cache & plugins
+.lazy/
+plugin/
+spell/
+shada/
+sessions/
+
+# OS
+.DS_Store
+
+# Temporary files
+*.swp
+*.swo
+
